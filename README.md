@@ -1,11 +1,18 @@
 # Articles Journal using Data Mining | GP
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Abdulrahmannaser/Articles_Analyzing/blob/master/LICENSE)
+[![Generic badge](https://img.shields.io/badge/contributors-6-<COLOR>.svg)](#)
+[![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](#)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](#)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/YoussefElkilaney/Projects/blob/master/Graduation%20Project/Source%20Code.ipynb)
+
 ## Contributors
-- [Youssof Kamal](https://github.com/YoussefElkilaney)
-- [Abdelhady Eslam](https://github.com/Hady-Eslam)
-- [Mahmoud Hamed](https://github.com/mahmoudhamedhafez) 
-- [Abdelrahman Naser](https://github.com/Abdulrahmannaser)
-- Abdelrahman Salah
-- [Mohamed Sayed](https://github.com/Acceptologist)
+[Youssof Kamal](https://github.com/YoussefElkilaney) |
+[Abdelhady Eslam](https://github.com/Hady-Eslam) |
+[Mahmoud Hamed](https://github.com/mahmoudhamedhafez) | 
+[Abdelrahman Naser](https://github.com/Abdulrahmannaser) |
+Abdelrahman Salah |
+[Mohamed Sayed](https://github.com/Acceptologist)
 ## Under supervision of
 [Prof. Marghany Hassan](https://scholar.google.com/citations?user=Atnnj6UAAAAJ&hl=en)
 
@@ -20,5 +27,3 @@ From this point of view and to overcome this problem, we have built a web app us
 
 [Data Mining Source Code](https://github.com/YoussefElkilaney/Projects/blob/master/Graduation%20Project/Source%20Code.ipynb)
 
-## License
-[MIT License](https://github.com/Abdulrahmannaser/Articles_Analyzing/blob/master/LICENSE)
