@@ -25,5 +25,3 @@ From this point of view and to overcome this problem, we have built a web app us
 
 [Dataset](https://github.com/YoussefElkilaney/Projects/tree/master/Graduation%20Project/Datasets)
 
-[Data Mining Source Code](https://github.com/YoussefElkilaney/Projects/blob/master/Graduation%20Project/Source%20Code.ipynb)
-
