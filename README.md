@@ -25,3 +25,8 @@ From this point of view and to overcome this problem, we have built a web app us
 
 [Dataset](https://github.com/YoussefElkilaney/Projects/tree/master/Graduation%20Project/Datasets)
 
+## TODO
+
+- [ ] Moving data related to posts to Apache Cassandra or DynamoDB
+- [ ] News Feed Generation (PageRank Algorithm -social networks-)
+
