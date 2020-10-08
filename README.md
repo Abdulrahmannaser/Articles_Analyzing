@@ -37,12 +37,47 @@ Prototype model is a software development model that's developed based on the cu
 ![Advantages](https://github.com/Abdulrahmannaser/Journal/blob/master/Screenshot%20from%202020-10-08%2003-12-16.png)
 ![Disadvantages](https://github.com/Abdulrahmannaser/Journal/blob/master/Screenshot%20from%202020-10-08%2003-09-52.png)
 
+
+<details align="center">
+    <summary align="left"><strong>Tools and technologies</strong></summary>
+  <ul>
+    <li>
+      <details align="center">
+        <summary align="left"><strong>DataBases</strong></summary>
+        MySQL - MongoDB
+      </details>
+    </li>
+    <li>
+      <details align="center">
+        <summary align="left"><strong>BackEnd</strong></summary>
+        Django
+      </details>
+    </li>
+    <li>
+      <details align="center">
+        <summary align="left"><strong>FrontEnd</strong></summary>
+        HTML - CSS - Bootstrap - JS - JQuery
+      </details>
+    </li>
+    <li>
+      <details align="center">
+        <summary align="left"><strong>Classifications Algorithms</strong></summary>
+        Logistic Regression - KNN - SVC - Decision Tree - Random Forests
+      </details>
+    </li>
+    <li>
+      <details align="center">
+        <summary align="left"><strong>Python Packages</strong></summary>
+        re - Pandas - Stopwords from nltk.corpus - word_tokenize from nltk.tokenize - PorterStemmer from nltk.stem.porter 
+      </details>
+    </li>
+  </ul>
+</details>
+
+## TODO
+- [ ] News Feed Generation (PageRank Algorithm -social networks-)
+
 [documentation](https://github.com/Abdulrahmannaser/Articles_Analyzing/blob/master/Documentation.pdf)
 
 [Dataset](https://github.com/YoussefElkilaney/Projects/tree/master/Graduation%20Project/Datasets)
-
-## TODO
-
-- [ ] Moving data related to posts to Apache Cassandra or DynamoDB
-- [ ] News Feed Generation (PageRank Algorithm -social networks-)
 
