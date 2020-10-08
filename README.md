@@ -74,6 +74,9 @@ Prototype model is a software development model that's developed based on the cu
   </ul>
 </details>
 
+### ERD
+![ERD](https://github.com/Abdulrahmannaser/Journal/blob/master/Screenshot%20from%202020-10-08%2013-18-29.png)
+
 ## TODO
 - [ ] News Feed Generation (PageRank Algorithm -social networks-)
 
